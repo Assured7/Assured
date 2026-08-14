@@ -1,2 +1,2 @@
 # Assured
-Create an artist landing page 
+create an hosting domain.
